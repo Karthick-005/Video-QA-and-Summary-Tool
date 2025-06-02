@@ -1,0 +1,13 @@
+faiss-cpu==1.11.0
+langchain-community==0.3.24
+langchain==0.3.25
+openai-whisper==20240930
+yt-dlp==2025.5.22
+moviepy==2.1.2
+gradio==5.32.0
+llama-index-llms-huggingface==0.5.0
+llama-index-llms-huggingface-api==0.5.0
+transformers[torch]
+huggingface_hub[inference]
+langchain-huggingface==0.2.0
+langchain-unstructured==0.1.6
